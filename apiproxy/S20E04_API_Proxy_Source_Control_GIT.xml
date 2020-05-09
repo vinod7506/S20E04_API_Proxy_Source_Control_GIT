@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="S20E04_API_Proxy_Source_Control_GIT">
+    <Basepaths>/s20e04_api_proxy_source_control_git</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589060815909</CreatedAt>
+    <CreatedBy>vinod.kumargyandas@accenture.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>S20E04_API_Proxy_Source_Control_GIT</DisplayName>
+    <LastModifiedAt>1589062297661</LastModifiedAt>
+    <LastModifiedBy>vinod.kumargyandas@accenture.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d07dd614b05aadb1c6219045ee62a562c2ed93e592bfe45c693568354f2eb6be804d130c625cea5f171094aa73811450c32c2692a21b72cc8349738600dd4a97</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

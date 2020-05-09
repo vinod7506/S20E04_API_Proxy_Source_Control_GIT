@@ -3,8 +3,7 @@
     <PreFlow name="PreFlow">
         <Request>
             <Step>
-                <Name>Quota-1</Name>
-                <Condition>{request.queryparam.override = "true" }</Condition>
+                <Name>Verify-API-Key-1</Name>
             </Step>
         </Request>
         <Response/>
@@ -15,7 +14,7 @@
         <Response/>
     </PostFlow>
     <HTTPProxyConnection>
-        <BasePath>/s20e02_zero_down_time_api_deployments</BasePath>
+        <BasePath>/s20e04_api_proxy_source_control_git</BasePath>
         <VirtualHost>secure</VirtualHost>
         <VirtualHost>default</VirtualHost>
     </HTTPProxyConnection>
