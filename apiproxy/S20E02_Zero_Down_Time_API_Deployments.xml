@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="S20E02_Zero_Down_Time_API_Deployments">
+    <Basepaths>/s20e02_zero_down_time_api_deployments</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589003696556</CreatedAt>
+    <CreatedBy>vinod.kumargyandas@accenture.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>S20E02_Zero_Down_Time_API_Deployments</DisplayName>
+    <LastModifiedAt>1589003696556</LastModifiedAt>
+    <LastModifiedBy>vinod.kumargyandas@accenture.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:dd220fa870fac9fba3e9ba2c4080996cd05c387bff443c31252b19bae0371530406e2aa1a317442bc7bc63937e62682c87297e53c3775362d7e98bf56961f3d2</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
