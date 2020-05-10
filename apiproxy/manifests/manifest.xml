@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest name="manifest">
     <Policies>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:7f9c29b356727cfdb2c4293e6cb81504cce8c68fc9f1fe1fc0648accc746ebefd9f4a2b5c34431dfa3a7b93dd8c2c40ef725ae0e767f406a06061c5449a61406"/>
         <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:231ec461539cab963434dbba0f1525ddf633c644ef326d0f9313f220069d73dba309a80583e19e6bebdf99b310938e6afa0618f3cc4b343f26925e3fac639663"/>
     </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:ada97b347e69724107cce7b27de615f37515c69919bd3d49cf5752b220a354a15e60f3e4a389f335393c0a229a622dcf700330b20a90996a9e0800d2831d6d03"/>
+        <VersionInfo resourceName="default" version="SHA-512:6d3f141d180eace2bb7ed2430790d2b9c1c02bb0c1ae1dcf73b01e47654d8c9692f358374c8cfcca0af0e3464498e381aa62a6c777697e3f189a6c56bc5e2073"/>
     </ProxyEndpoints>
     <Resources/>
     <SharedFlows/>
